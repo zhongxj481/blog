@@ -21,7 +21,7 @@ jobs:
       - uses: actions/checkout@v5
       - uses: actions/setup-python@v5
         with:
-          python-version: 3.13.7   # Zensical 需 Python 3.10+，3.x 在 GitHub 当前 runner 上满足要求
+          python-version: 3.13.7   # Zensical 需 Python 3.10+，3.x 在 GitHub 当前 runner 上满足要求，重点是保持本地python版本与gitbuh actions runner一致，避免出现版本不一致导致的依赖问题。
       - run: pip install zensical
       - run: zensical build --clean
       - uses: actions/upload-pages-artifact@v4
