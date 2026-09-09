@@ -6,4 +6,10 @@
       <url>
         <loc>https://www.example.com/markdown/</loc>
       </url>
+      <url>
+        <loc>https://www.example.com/remind/</loc>
+      </url>
+      <url>
+        <loc>https://www.example.com/daily/2026/</loc>
+      </url>
 </urlset>

@@ -13,6 +13,11 @@ site_name = "Documentation"
 nav = [
   { "Get started" = "index.md" },
   { "Markdown in 5min" = "markdown.md" },
+  { "备忘录" = "remind.md" },
+  { "daily" = [
+    {"2026" = "daily/2026.md"},
+    ]
+   },
 ]
 
 # extra_css = ["stylesheets/extra.css"]
