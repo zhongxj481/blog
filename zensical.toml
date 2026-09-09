@@ -15,7 +15,9 @@ nav = [
   { "Markdown in 5min" = "markdown.md" },
   { "备忘录" = "remind.md" },
   { "daily" = [
+    {"2025" = "daily/september.md"},
     {"2026" = "daily/2026.md"},
+    
     ]
    },
 ]
