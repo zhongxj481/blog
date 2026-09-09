@@ -10,9 +10,9 @@
         <loc>https://www.example.com/remind/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/daily/september/</loc>
+        <loc>https://www.example.com/daily/2026/</loc>
       </url>
       <url>
-        <loc>https://www.example.com/daily/2026/</loc>
+        <loc>https://www.example.com/daily/september/</loc>
       </url>
 </urlset>

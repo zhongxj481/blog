@@ -1,10 +1,10 @@
 [project]
 site_url = "https://www.example.com/"
-site_name = "Documentation"
-# site_description = "Your project description"
-# site_author = "Your name"
+site_name = "zhongxj481's blog"
+site_description = "zhongxj481's blog by zenscial"
+site_author = "zhongxj481"
 
-# copyright = "Copyright &copy; 2026 Your name"
+# copyright = "Copyright &copy; 2026 zhongxj481"
 
 # repo_url = "https://github.com/user/repo"
 # repo_name = "user/repo"
@@ -15,8 +15,8 @@ nav = [
   { "Markdown in 5min" = "markdown.md" },
   { "备忘录" = "remind.md" },
   { "daily" = [
-    {"2025" = "daily/september.md"},
     {"2026" = "daily/2026.md"},
+    {"2025" = "daily/september.md"},
     ]
    },
 ]
@@ -25,7 +25,7 @@ nav = [
 # extra_javascript = ["javascripts/extra.js"]
 
 [project.theme]
-# variant = "classic"
+variant = "modern"
 # custom_dir = "overrides"
 # favicon = "images/favicon.png"
 language = "en"
