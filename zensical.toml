@@ -17,7 +17,6 @@ nav = [
   { "daily" = [
     {"2025" = "daily/september.md"},
     {"2026" = "daily/2026.md"},
-    
     ]
    },
 ]
